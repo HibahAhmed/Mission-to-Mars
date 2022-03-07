@@ -23,6 +23,7 @@ This project focuses on web scraping Methods in order to extract data with:
 ## Result
 
 An automated test was conducted which was able to display our website and the images. 
+![image](https://user-images.githubusercontent.com/95547517/156966979-abfd56c8-6f30-4f31-ab71-55f65b10c045.png)
 
 ![image](https://user-images.githubusercontent.com/95547517/156965756-13251e29-ef0e-4a7d-8b2e-b64d71202d4d.png)
 

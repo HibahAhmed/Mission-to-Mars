@@ -15,6 +15,7 @@ This project focuses on web scraping Methods in order to extract data with:
 - Spliter
 - BeautifulSoup
 - MongoDB
+- Pymongo
 - Jupyter Notebook
 - HTML
 - CSS

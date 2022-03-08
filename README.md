@@ -28,5 +28,3 @@ An automated test was conducted which was able to display our website and the im
 ![image](https://user-images.githubusercontent.com/95547517/156965756-13251e29-ef0e-4a7d-8b2e-b64d71202d4d.png)
 
 Lastly, the webpage was successfully displayed.
-
-![image](https://user-images.githubusercontent.com/95547517/156966039-3048e014-6d8a-4b1b-86c5-86ef0c7973a0.png)
